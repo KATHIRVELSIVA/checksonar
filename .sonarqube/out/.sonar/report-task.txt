@@ -1,0 +1,6 @@
+projectKey=CrudWebapi
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=CrudWebapi
+ceTaskId=AY0sdxJ32cE1-dY5K07u
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY0sdxJ32cE1-dY5K07u

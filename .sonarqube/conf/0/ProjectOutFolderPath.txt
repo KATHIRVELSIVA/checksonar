@@ -1,0 +1,1 @@
+D:\SKV\Codes\Visual Studio 2022\Web api\CrudApi\.sonarqube\out\0
